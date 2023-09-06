@@ -1,0 +1,19 @@
+{
+    "name": "MainModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3410c5d9b4d26b44ebf2175df331348d",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
